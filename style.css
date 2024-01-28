@@ -1,0 +1,152 @@
+body {
+    text-align: center;
+    position: relative;
+    
+    
+}
+.card-1 {
+    background-color: rgb(223,115,87);
+  padding: 20px;
+  height: 230px;
+  margin-top: 55px;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.i-con{
+    margin-top: -65px;
+    color: black;
+}
+.card-job {
+    margin-top: -15px;
+}
+.card-text {
+    border: 0px solid rgb(255, 255, 255);
+    border-radius: 8px;
+    background-color: #d597973c;
+}
+.card-2 {
+    background-color: rgba(223, 114, 87, 0.24);
+  padding: 20px;
+  width: 230px;
+  height: 350px;
+  margin-top: 25px;
+  color: aliceblue;
+  font-family: Arial, Helvetica, sans-serif;
+}
+.username {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    color:  rgb(223,115,87);
+}
+.firstname {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 16px;
+    color:  rgb(0, 0, 0);
+}
+.phonework {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    color:  rgb(223,115,87);
+}
+.number {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 16px;
+    color:  rgb(0, 0, 0);
+}
+.phonework-private {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    color:  rgb(223,115,87);
+}
+.number-1 {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 16px;
+    color:  rgb(0, 0, 0);
+}
+.email {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    color:  rgb(223,115,87);
+}
+.email-id {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 16px;
+    color:  rgb(0, 0, 0);
+}
+.company {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    color:  rgb(223,115,87);
+}
+.companyname {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 16px;
+    color:  rgb(0, 0, 0);
+}
+.address {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    color:  rgb(223,115,87);
+}
+.youraddress {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 16px;
+    color:  rgb(0, 0, 0);
+}
+.website {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    color:  rgb(223,115,87);
+}
+.yourwebsite {
+    display: flex;
+  justify-content: left;
+    font-weight: bold;
+    font-size: 16px;
+    color:  rgb(0, 0, 0);
+}
+.card-3 {
+    background-color: rgba(223, 114, 87, 0.24);
+  padding: 20px;
+  width: 230px;
+  height: 100px;
+  margin-top: 25px;
+  color: aliceblue;
+}
+.facebook {
+    font-weight: bold;
+    font-size: 25px;
+    color:  rgb(223,115,87);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.twitter {
+    font-weight: bold;
+    font-size: 25px;
+    color:  rgb(223,115,87);
+    font-family: Arial, Helvetica, sans-serif;
+}
+.linkedin {
+    font-weight: bold;
+    font-size: 25px;
+    color:  rgb(223,115,87);
+    font-family: Arial, Helvetica, sans-serif;
+}
